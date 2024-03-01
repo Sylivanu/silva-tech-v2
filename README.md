@@ -31,7 +31,7 @@
 
 
 <br>
-WELCOME 😊 TO SILVA MD THE FASTEST BOT MADE BY SILVA +254700143167 AND DURABLE +233248716476.
+WELCOME 😊 TO SILVA MD THE FASTEST BOT MADE BY SILVA +254700143167
 WhatsApp MD User Bot.
 A simple WhatsApp User bot.
 
@@ -42,7 +42,7 @@ A simple WhatsApp User bot.
    - You will get a session ID in WhatsApp, copy the ID only.
    - If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).
    - If you don't have a GitHub account, [sign up](https://github.com/join) now.
-   - [FORK](https://github.com/Sylivanu/silva-tech/fork) this repository.
+   - [FORK](https://github.com/Sylivanu/silva-tech-v2/fork) this repository.
    
 ## 🚀 `Deployments`
 #### DEPLOY TO HEROKU 
@@ -53,4 +53,4 @@ A simple WhatsApp User bot.
 
 2. Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Sylivanu/silva-tech' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Sylivanu/silva-tech-v2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
